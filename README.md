@@ -8,7 +8,7 @@ Group project — 4 contributors, each owning one analytical domain.
 to flag at-risk employees before departure (see /queries/career_tenure.sql).
 
 ## Full Report
-docs/Final_Project Report .pdf
+docs/Final_Project_Report.pdf
 
 ## Key Findings
 - Company-wide attrition rate: 16.1%
